@@ -22,7 +22,7 @@ Open source SDK designed for image manipulation capabilities to facilitate .NET 
 Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image manipulation and processing.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/imaging/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/imaging/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
