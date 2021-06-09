@@ -223,23 +223,23 @@ url: /php
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/curl" imgSrc="/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="/sdk/aspose_imaging-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/sdk/aspose_imaging-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/php" imgSrc="/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/android" imgSrc="/sdk/aspose_imaging-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="/sdk/aspose_imaging-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/python" imgSrc="/sdk/aspose_imaging-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="/sdk/aspose_imaging-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/ruby" imgSrc="/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs" imgSrc="/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/javascript" imgSrc="/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 
