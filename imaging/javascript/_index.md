@@ -6,7 +6,7 @@ url: /javascript
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JavaScript Cloud SDK for Imaging Operations" h2="Use JavaScript image manipulation Cloud SDK to achieve image rotate, convert, crop, flip, scale and many other imaging features along with search images and image object detection in your Web applications." logoImageSrc="/headers/aspose_imaging-for-js.png" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for JavaScript" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="JavaScript Cloud SDK for Imaging Operations" h2="Use JavaScript image manipulation Cloud SDK to achieve image rotate, convert, crop, flip, scale and many other imaging features along with search images and image object detection in your Web applications." logoImageSrc="/headers/aspose_imaging-for-js.png" pfName="Aspose.Imaging" subTitlepfName="SDK for JavaScript" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for JavaScript" >}}
 

@@ -31,7 +31,7 @@ PHP Cloud SDK to Manipulate, Convert, Transform or Search Images. Also perform I
 The power of Cloud SDK and leverage of platform independence. Enabling you to Resize, Crop, Rotate or Flip along with advanced features such as image inspection, conversion & transformation features.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_imaging-for-node.png" productLink="/imaging/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_imaging-for-node.png" productLink="/imaging/nodejs/" >}}
 Manipulate, Transform or Search Images using Aspose.Imaging Cloud SDK for Node.js. The advance Artificial Intelligence based engine enables you to perform Reverse Image Search.
 {{< /blocks/products/pf/product >}}
 

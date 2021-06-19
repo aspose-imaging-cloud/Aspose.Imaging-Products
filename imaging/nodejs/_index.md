@@ -203,7 +203,7 @@ url: /nodejs
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/imaging" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-node" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-nodejs" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
