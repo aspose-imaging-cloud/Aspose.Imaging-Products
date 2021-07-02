@@ -50,6 +50,7 @@ url: /javascript
 <li>TIFF</li>
 <li>WEBP</li>
 <li>PNG</li>
+<li>PSD</li>
 <li>WMF</li>
 <li>EMF</li>
 <li>SVG</li>
@@ -59,8 +60,10 @@ url: /javascript
 <li>DICOM</li>
 <li>CDR</li>
 <li>CMX</li>
-<li>ODG</li>
 <li>DNG</li>
+<li>ODG</li>
+<li>OTG</li>
+<li>EPS</li>
 </ul><header><i class="fa fa-arrows-v "> </i>Output Only</header><ul><li>PDF</li>
 </ul></div>
 <!--/right--></div>
