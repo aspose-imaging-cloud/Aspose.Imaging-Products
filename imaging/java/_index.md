@@ -6,11 +6,11 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Perform Imaging Operations in the Cloud" h2="Perform advanced image processing in your Java Apps via Java Cloud SDK to resize, scale, rotate, flip, search, crop & convert images." logoImageSrc="/headers/aspose_imaging-for-java.png" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Perform Imaging Operations in the Cloud" h2="Perform advanced image processing in your Java Apps via Java Cloud SDK to resize, scale, rotate, flip, search, crop & convert images." logoImageSrc="https://products.aspose.cloud/headers/aspose_imaging-for-java.png" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Java" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_imaging-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-java" liveDemosLink="https://products.aspose.app/imaging/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-java" liveDemosLink="https://products.aspose.app/imaging/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Imaging Cloud SDK for Java provides all basic imaging capabilities such as resize, crop, rotate or flip along with advanced features such as image inspection, conversion & transformation. Furthermore, Aspose.Imaging's AI engine enables the developers to perform Reverse Image Search from within their own applications.</p>
@@ -34,7 +34,7 @@ url: /java
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_imaging-for-java.png" alt="Java imaging Cloud"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" alt="Java imaging Cloud"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -65,7 +65,7 @@ url: /java
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_imaging-for-java.png" alt="Java Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" alt="Java Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -225,23 +225,23 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/sdk/aspose_imaging-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="/sdk/aspose_imaging-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-android.png" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="/sdk/aspose_imaging-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

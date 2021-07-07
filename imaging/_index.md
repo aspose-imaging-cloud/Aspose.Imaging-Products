@@ -5,20 +5,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="/headers/aspose_imaging-brand.png" imageAlt="Aspose.Imaging Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="https://products.aspose.cloud/headers/aspose_imaging-brand.png" imageAlt="Aspose.Imaging Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/imaging/curl/" pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="/sdk/aspose_imaging-for-curl.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/curl/" pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-curl.png" >}}
 Image processing REST APIs to resize, crop, rotate, scale, flip, search, export and convert images via any device capable of executing cURL commands.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/imaging/net/" pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_imaging-for-net.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/net/" pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-net.png" >}}
 Open source SDK designed for image manipulation capabilities to facilitate .NET programmers to use Aspose.Imaging RESTFul APIs with ease.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/imaging/java/" pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="/sdk/aspose_imaging-for-java.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/java/" pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" >}}
 Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image manipulation and processing.
 {{< /blocks/products/pf/product >}}
 
