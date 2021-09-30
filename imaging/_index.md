@@ -28,15 +28,15 @@ Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image man
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/net/" pfName="Aspose.Imaging for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/net/" pfName="Aspose.Imaging for " title=".NET" imgSrc="/product-logos/aspose_imaging-for-net.svg" >}}
 On Premise APIs to target .NET Framework and .NET Core platforms to develop image manipulation solution.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/java/" pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/java/" pfName="Aspose.Imaging for " title="Java" imgSrc="/product-logos/aspose_imaging-for-java.svg" >}}
 Java APIs to create, manipulate or convert different format images in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/sharepoint/" pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/sharepoint/" pfName="Aspose.Imaging for " title="SharePoint" imgSrc="/product-logos/aspose_imaging-for-sharepoint.svg" >}}
 Allows users to convert images to other image formats including PNG, JPEG, BMP, GIF, TIFF and more from within Microsoft SharePoint. 
 {{< /blocks/products/pf/product >}}
 
