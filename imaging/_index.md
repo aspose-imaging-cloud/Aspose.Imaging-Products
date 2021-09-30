@@ -10,15 +10,15 @@ url: /
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product productLink="/imaging/curl/" pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-curl.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/curl/" pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="/sdk/aspose_imaging-for-curl.svg" >}}
 Image processing REST APIs to resize, crop, rotate, scale, flip, search, export and convert images via any device capable of executing cURL commands.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/imaging/net/" pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-net.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/net/" pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_imaging-for-net.svg" >}}
 Open source SDK designed for image manipulation capabilities to facilitate .NET programmers to use Aspose.Imaging RESTFul APIs with ease.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="/imaging/java/" pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" >}}
+{{< blocks/products/pf/product productLink="/imaging/java/" pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="/sdk/aspose_imaging-for-java.svg" >}}
 Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image manipulation and processing.
 {{< /blocks/products/pf/product >}}
 

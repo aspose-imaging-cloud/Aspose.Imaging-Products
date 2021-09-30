@@ -6,11 +6,11 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process, Transform and Convert Images" h2="Could based Ruby applications could take advantage of basic image processing features, to crop, scale, rotate, filter and convert images." logoImageSrc="https://products.aspose.cloud/headers/aspose_imaging-for-ruby.png" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process, Transform and Convert Images" h2="Could based Ruby applications could take advantage of basic image processing features, to crop, scale, rotate, filter and convert images." logoImageSrc="/headers/aspose_imaging-for-ruby.svg" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-ruby" liveDemosLink="https://products.aspose.app/imaging/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_imaging-for-ruby.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-ruby" liveDemosLink="https://products.aspose.app/imaging/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>When you need robust image processing features into your Ruby application, but do not have time&resources to develop complex imaging back end yourself, Aspose.Imaging Cloud SDK for Ruby is for you. There are set of powerful image conversion, transformation, filtering features along with advanced reverse image search feature exposed via Aspose.Imaging REST API and wrapped as native Ruby SDK to help Ruby developers build imaging applications easy.</p>
@@ -36,7 +36,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" alt="Ruby Imaging Cloud SDK"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_imaging-for-ruby.svg" alt="Ruby Imaging Cloud SDK"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -67,7 +67,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" alt="Ruby Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_imaging-for-ruby.svg" alt="Ruby Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -227,23 +227,23 @@ url: /ruby
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="/sdk/aspose_imaging-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="/sdk/aspose_imaging-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/sdk/aspose_imaging-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="/sdk/aspose_imaging-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="/sdk/aspose_imaging-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="/sdk/aspose_imaging-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="/sdk/aspose_imaging-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="/sdk/aspose_imaging-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="/sdk/aspose_imaging-for-js.svg" platform="JavaScript" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 

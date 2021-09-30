@@ -6,11 +6,11 @@ url: /python
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process, Transform and Convert Images" h2="Cloud SDK to build image processing cloud-based Python applications, to crop, scale, rotate, and convert images." logoImageSrc="https://products.aspose.cloud/headers/aspose_imaging-for-python.png" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process, Transform and Convert Images" h2="Cloud SDK to build image processing cloud-based Python applications, to crop, scale, rotate, and convert images." logoImageSrc="/headers/aspose_imaging-for-python.svg" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Python" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Python" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-python" liveDemosLink="https://products.aspose.app/imaging/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_imaging-for-python.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-python" liveDemosLink="https://products.aspose.app/imaging/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Imaging Cloud SDK for Python helps you build cloud-based Python applications for manipulating and processing images, without installing any 3rd party software. This image processing Cloud SDK encapsulates the Aspose.Imaging REST API and enables Python developers to easily call basic to advanced level image processing functions without getting indulged into complexity.</p>
@@ -36,7 +36,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" alt="Python imaging Cloud"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_imaging-for-python.svg" alt="Python imaging Cloud"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -67,7 +67,7 @@ url: /python
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" alt="Python Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_imaging-for-python.svg" alt="Python Cloud SDK for imaging"><header>Aspose.Imaging</header><footer>Cloud <small> <em>for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -225,23 +225,23 @@ url: /python
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/curl/" imgSrc="/sdk/aspose_imaging-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="/sdk/aspose_imaging-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/sdk/aspose_imaging-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/php/" imgSrc="/sdk/aspose_imaging-for-php.svg" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-android.png" platform="Android" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/android/" imgSrc="/sdk/aspose_imaging-for-android.svg" platform="Android" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/python/" imgSrc="/sdk/aspose_imaging-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/ruby/" imgSrc="/sdk/aspose_imaging-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/nodejs/" imgSrc="/sdk/aspose_imaging-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="https://products.aspose.cloud/sdk/aspose_imaging-for-js.png" platform="JavaScript" >}}
+	{{< blocks/products/pf/offers-section-item link="/imaging/javascript/" imgSrc="/sdk/aspose_imaging-for-js.svg" platform="JavaScript" >}}
 	
 {{< /blocks/products/pf/offers-section >}}
 
