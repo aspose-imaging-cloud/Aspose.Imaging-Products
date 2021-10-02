@@ -6,9 +6,9 @@ url: /android
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Cloud SDK for Imaging Operations" h2="Android Cloud SDK for advanced image processing in mobile Apps to scale, rotate, export, flip, crop, search & convert images." logoImageSrc="/headers/aspose_imaging-for-android.svg" pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Android" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Cloud SDK for Imaging Operations" h2="Android Cloud SDK for advanced image processing in mobile Apps to scale, rotate, export, flip, crop, search & convert images." logoImageSrc="/headers/aspose_imaging-for-android.svg" pfName="Aspose.Imaging" subTitlepfName="SDK for Android" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for Android" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="SDK for Android" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_imaging-for-android.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-android" liveDemosLink="https://products.aspose.app/imaging/family" >}}
 

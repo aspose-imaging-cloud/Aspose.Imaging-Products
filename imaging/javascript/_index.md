@@ -8,7 +8,7 @@ url: /javascript
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="JavaScript Cloud SDK for Imaging Operations" h2="Use JavaScript image manipulation Cloud SDK to achieve image rotate, convert, crop, flip, scale and many other imaging features along with search images and image object detection in your Web applications." logoImageSrc="/headers/aspose_imaging-for-js.svg" pfName="Aspose.Imaging" subTitlepfName="SDK for JavaScript" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="Cloud SDK for JavaScript" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="SDK for JavaScript" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_imaging-for-js.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/imaging" directDownloadLink="https://github.com/aspose-imaging-cloud/aspose-imaging-cloud-javascript" liveDemosLink="https://products.aspose.app/imaging/family" >}}
 
@@ -167,9 +167,6 @@ url: /javascript
     </em>
     <p class="col-lg-10">
      Rotate and/or flip a TIFF frame
-    </p>
-    <p class="col-lg-10">
-     Extract specific frame from TIFF image to rotate, flip, resize &amp; crop
     </p>
    </div>
    <div class="col-lg-12">

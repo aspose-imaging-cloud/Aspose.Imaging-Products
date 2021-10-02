@@ -5,7 +5,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="https://products.aspose.cloud/headers/aspose_imaging-brand.png" imageAlt="Aspose.Imaging Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="/headers/aspose_imaging-brand.svg" imageAlt="Aspose.Imaging Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
