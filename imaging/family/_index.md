@@ -9,7 +9,7 @@ url: /family
 {{< blocks/products/pf/upper-banner h1="Cloud SDKs for Reverse Image Search & Image Manipulation" h2="APIs & Cloud SDKs for advanced processing and manipulation of various image formats, on major platforms via numerous languages." logoImageSrc="/headers/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="/sdk/aspose_imaging-for-curl.svg" productLink="/imaging/curl/" >}}
 No Software download required. Forget about platform, just send cURL calls to Manipulate or Convert images in any type of application.

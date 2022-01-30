@@ -8,7 +8,7 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="/headers/aspose_imaging-brand.svg" imageAlt="Aspose.Imaging Product Solution" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="/imaging/curl/" pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="/sdk/aspose_imaging-for-curl.svg" >}}
 Image processing REST APIs to resize, crop, rotate, scale, flip, search, export and convert images via any device capable of executing cURL commands.
@@ -22,11 +22,11 @@ Open source SDK designed for image manipulation capabilities to facilitate .NET 
 Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image manipulation and processing.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/imaging/family/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/imaging/family/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging High Code APIs Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.com/imaging/net/" pfName="Aspose.Imaging for " title=".NET" imgSrc="/product-logos/aspose_imaging-for-net.svg" >}}
 On Premise APIs to target .NET Framework and .NET Core platforms to develop image manipulation solution.
@@ -44,7 +44,7 @@ Allows users to convert images to other image formats including PNG, JPEG, BMP, 
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging No Code Apps Include" >}}
 
 {{< blocks/products/pf/product productLink="https://products.aspose.app/imaging/conversion" pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
 Easily convert Images to PDF, PSD and Raster image formats without leaving your favorite browser.
@@ -58,7 +58,7 @@ Just upload your image files to add watermark from any browser. No installation 
 Perform reverse image search to find particular image on specified website from anywhere.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
