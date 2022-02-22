@@ -41,7 +41,7 @@ jobs:
         src_path: ./imaging/.
         dst_path: /content/imaging/
         dst_owner: aspose-cloud
-        dst_repo_name: products-qa.aspose.cloud
+        dst_repo_name: products.aspose.cloud
         dst_branch: main
         src_branch: main
         clean: true
