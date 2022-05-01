@@ -45,7 +45,7 @@ Developers can easily load & convert PSD files to APNG in just a few lines of co
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
 
-Aspose.Imaging for Ruby is supported on all major operating systems. Just make sure that you have the following prerequisites.
+Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just make sure that you have the following prerequisites.
 - Ruby version >= 2.5.1
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -68,7 +68,10 @@ Aspose.Imaging for Ruby is supported on all major operating systems. Just make s
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Aspose.Imaging Cloud API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing). It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects. 
+Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
+It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
+It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
     
     {{% /blocks/products/pf/agp/content %}}
 
