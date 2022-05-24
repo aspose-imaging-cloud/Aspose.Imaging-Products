@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /PHP/conversion/eps-to-psd/
-description: Sample code for EPS to PSD  PHP Cloud API conversion. Use API example code for batch EPS files to PSD {action} within any PHP based application. 
+description: Sample code for EPS to PSD  PHP Cloud API conversion. Use API example code for batch EPS files to PSD conversion within any PHP based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert EPS to PSD via PHP Cloud API" h2="Transform EPS into PSD using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EPS" additionalConversionTag="PSD" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert EPS to PSD via PHP Cloud API" h2="Transform EPS into PSD using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EPS" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for PHP" >}}
@@ -57,7 +57,7 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 
 {{< blocks/products/pf/agp/code-block title="Convert EPS to PSD - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "90506a90008ecfc07f339d5d073ce812" "eps-to-psd.php" >}}
+{{< gist "aspose-imaging-cloud-examples" "957a5e4cc0885bc8266551d66ebda75e" "eps-to-psd.php" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -76,18 +76,14 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/eps-to-psd), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/eps-to-psd), [.NET](https://products.aspose.cloud/imaging/net/conversion/eps-to-psd), [Java](https://products.aspose.cloud/imaging/java/conversion/eps-to-psd), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/eps-to-psd), [PHP](https://products.aspose.cloud/imaging/php/conversion/eps-to-psd)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps">}}
 FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as JPG, PNG, TIFF and PDF using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a security vulnerability in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd">}}
-PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

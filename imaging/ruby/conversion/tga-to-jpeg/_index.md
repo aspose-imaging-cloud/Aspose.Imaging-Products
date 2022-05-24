@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Ruby/conversion/tga-to-jpeg/
-description: Sample code for TGA to JPEG  Ruby Cloud API conversion. Use API example code for batch TGA files to JPEG {action} within any Ruby based application. 
+description: Sample code for TGA to JPEG  Ruby Cloud API conversion. Use API example code for batch TGA files to JPEG conversion within any Ruby based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert TGA to JPEG via Ruby Cloud API" h2="Transform TGA into JPEG using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="TGA" additionalConversionTag="JPEG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert TGA to JPEG via Ruby Cloud API" h2="Transform TGA into JPEG using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="TGA" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Ruby" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert TGA to JPEG - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "f4b89ceb26f939a2bebd517d1f84f7d9" "tga-to-jpeg.rb" >}}
+{{< gist "aspose-imaging-cloud-examples" "0b19a228acfe61fc9e76c7145abbf58a" "tga-to-jpeg.rb" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/tga-to-jpeg), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/tga-to-jpeg), [.NET](https://products.aspose.cloud/imaging/net/conversion/tga-to-jpeg), [Java](https://products.aspose.cloud/imaging/java/conversion/tga-to-jpeg), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/tga-to-jpeg), [PHP](https://products.aspose.cloud/imaging/php/conversion/tga-to-jpeg)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga">}}
 Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg">}}
-A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

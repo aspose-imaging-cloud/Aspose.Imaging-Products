@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Python/conversion/bmp-to-pdf/
-description: Sample code for BMP to PDF  Python Cloud API conversion. Use API example code for batch BMP files to PDF {action} within any Python based application. 
+description: Sample code for BMP to PDF  Python Cloud API conversion. Use API example code for batch BMP files to PDF conversion within any Python based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert BMP to PDF via Python Cloud API" h2="Transform BMP into PDF using native Python Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="BMP" additionalConversionTag="PDF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert BMP to PDF via Python Cloud API" h2="Transform BMP into PDF using native Python Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="BMP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Python" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for Python is supported on all major operating systems. Jus
 
 {{< blocks/products/pf/agp/code-block title="Convert BMP to PDF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "439c18ad4e7cbc264400070aff70df8f" "bmp-to-pdf.py" >}}
+{{< gist "aspose-imaging-cloud-examples" "bda180fa547b40578014739b63a48bf9" "bmp-to-pdf.py" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for Python is supported on all major operating systems. Jus
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/bmp-to-pdf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/bmp-to-pdf), [.NET](https://products.aspose.cloud/imaging/net/conversion/bmp-to-pdf), [Java](https://products.aspose.cloud/imaging/java/conversion/bmp-to-pdf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/bmp-to-pdf), [PHP](https://products.aspose.cloud/imaging/php/conversion/bmp-to-pdf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp">}}
 Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/">}}
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

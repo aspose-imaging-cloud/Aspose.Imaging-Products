@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /PHP/conversion/dng-to-tiff/
-description: Sample code for DNG to TIFF  PHP Cloud API conversion. Use API example code for batch DNG files to TIFF {action} within any PHP based application. 
+description: Sample code for DNG to TIFF  PHP Cloud API conversion. Use API example code for batch DNG files to TIFF conversion within any PHP based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert DNG to TIFF via PHP Cloud API" h2="Transform DNG into TIFF using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DNG" additionalConversionTag="TIFF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert DNG to TIFF via PHP Cloud API" h2="Transform DNG into TIFF using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DNG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for PHP" >}}
@@ -57,7 +57,7 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 
 {{< blocks/products/pf/agp/code-block title="Convert DNG to TIFF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "1c1cc05b71e9b1687f5009794692e966" "dng-to-tiff.php" >}}
+{{< gist "aspose-imaging-cloud-examples" "a7942e3c272dfaf5a3d837110bc78a2f" "dng-to-tiff.php" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -76,18 +76,14 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/dng-to-tiff), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/dng-to-tiff), [.NET](https://products.aspose.cloud/imaging/net/conversion/dng-to-tiff), [Java](https://products.aspose.cloud/imaging/java/conversion/dng-to-tiff), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/dng-to-tiff), [PHP](https://products.aspose.cloud/imaging/php/conversion/dng-to-tiff)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng">}}
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff">}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

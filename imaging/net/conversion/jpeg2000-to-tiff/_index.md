@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Net/conversion/jpeg2000-to-tiff/
-description: Sample code for JPEG2000 to TIFF  C# Cloud API conversion. Use API example code for batch JPEG2000 files to TIFF {action} within any .NET based application. 
+description: Sample code for JPEG2000 to TIFF  C# Cloud API conversion. Use API example code for batch JPEG2000 files to TIFF conversion within any .NET based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert JPEG2000 to TIFF via C# Cloud API" h2="Transform JPEG2000 into TIFF using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG2000" additionalConversionTag="TIFF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert JPEG2000 to TIFF via C# Cloud API" h2="Transform JPEG2000 into TIFF using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG2000" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for .NET" >}}
@@ -58,7 +58,7 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert JPEG2000 to TIFF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "6c996aaa6911004f76a2aae0872289af" "jpeg2000-to-tiff.cs" >}}
+{{< gist "aspose-imaging-cloud-examples" "421838f95071cf96d7c471cbbc63fd74" "jpeg2000-to-tiff.cs" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -77,18 +77,14 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/jpeg2000-to-tiff), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/jpeg2000-to-tiff), [.NET](https://products.aspose.cloud/imaging/net/conversion/jpeg2000-to-tiff), [Java](https://products.aspose.cloud/imaging/java/conversion/jpeg2000-to-tiff), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/jpeg2000-to-tiff), [PHP](https://products.aspose.cloud/imaging/php/conversion/jpeg2000-to-tiff)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/">}}
 JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff">}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

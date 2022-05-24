@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /NodeJs/conversion/tiff-to-pdf/
-description: Sample code for TIFF to PDF  NodeJs Cloud API conversion. Use API example code for batch TIFF files to PDF {action} within any NodeJs based application. 
+description: Sample code for TIFF to PDF  NodeJs Cloud API conversion. Use API example code for batch TIFF files to PDF conversion within any NodeJs based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert TIFF to PDF via NodeJs Cloud API" h2="Transform TIFF into PDF using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="TIFF" additionalConversionTag="PDF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert TIFF to PDF via NodeJs Cloud API" h2="Transform TIFF into PDF using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="TIFF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for NodeJs" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{< blocks/products/pf/agp/code-block title="Convert TIFF to PDF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "cd5c7475dd8acbf62e152406501c3403" "tiff-to-pdf.ts" >}}
+{{< gist "aspose-imaging-cloud-examples" "3487d977b3848f41e48e1fa08b77463c" "tiff-to-pdf.ts" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/tiff-to-pdf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/tiff-to-pdf), [.NET](https://products.aspose.cloud/imaging/net/conversion/tiff-to-pdf), [Java](https://products.aspose.cloud/imaging/java/conversion/tiff-to-pdf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/tiff-to-pdf), [PHP](https://products.aspose.cloud/imaging/php/conversion/tiff-to-pdf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff">}}
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/">}}
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

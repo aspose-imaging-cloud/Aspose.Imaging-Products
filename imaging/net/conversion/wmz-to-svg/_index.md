@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Net/conversion/wmz-to-svg/
-description: Sample code for WMZ to SVG  C# Cloud API conversion. Use API example code for batch WMZ files to SVG {action} within any .NET based application. 
+description: Sample code for WMZ to SVG  C# Cloud API conversion. Use API example code for batch WMZ files to SVG conversion within any .NET based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert WMZ to SVG via C# Cloud API" h2="Transform WMZ into SVG using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMZ" additionalConversionTag="SVG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert WMZ to SVG via C# Cloud API" h2="Transform WMZ into SVG using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMZ" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for .NET" >}}
@@ -58,7 +58,7 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert WMZ to SVG - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "dbca7382e3092548657733ee4484e474" "wmz-to-svg.cs" >}}
+{{< gist "aspose-imaging-cloud-examples" "1b34c9e8bab900f2d6ddf262115ac2d0" "wmz-to-svg.cs" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -77,18 +77,14 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/wmz-to-svg), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/wmz-to-svg), [.NET](https://products.aspose.cloud/imaging/net/conversion/wmz-to-svg), [Java](https://products.aspose.cloud/imaging/java/conversion/wmz-to-svg), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/wmz-to-svg), [PHP](https://products.aspose.cloud/imaging/php/conversion/wmz-to-svg)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz">}}
 WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg">}}
-SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

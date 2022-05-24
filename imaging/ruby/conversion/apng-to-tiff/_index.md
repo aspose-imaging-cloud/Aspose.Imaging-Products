@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Ruby/conversion/apng-to-tiff/
-description: Sample code for APNG to TIFF  Ruby Cloud API conversion. Use API example code for batch APNG files to TIFF {action} within any Ruby based application. 
+description: Sample code for APNG to TIFF  Ruby Cloud API conversion. Use API example code for batch APNG files to TIFF conversion within any Ruby based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert APNG to TIFF via Ruby Cloud API" h2="Transform APNG into TIFF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="APNG" additionalConversionTag="TIFF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert APNG to TIFF via Ruby Cloud API" h2="Transform APNG into TIFF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="APNG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Ruby" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert APNG to TIFF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "469bd36d839bb308a0a1dd8254a345a2" "apng-to-tiff.rb" >}}
+{{< gist "aspose-imaging-cloud-examples" "7c9c2c24c253a16a2df9b03b835c4739" "apng-to-tiff.rb" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/apng-to-tiff), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/apng-to-tiff), [.NET](https://products.aspose.cloud/imaging/net/conversion/apng-to-tiff), [Java](https://products.aspose.cloud/imaging/java/conversion/apng-to-tiff), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/apng-to-tiff), [PHP](https://products.aspose.cloud/imaging/php/conversion/apng-to-tiff)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng">}}
 A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff">}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

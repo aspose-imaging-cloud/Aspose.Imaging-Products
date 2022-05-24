@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /NodeJs/conversion/emf-to-wmz/
-description: Sample code for EMF to WMZ  NodeJs Cloud API conversion. Use API example code for batch EMF files to WMZ {action} within any NodeJs based application. 
+description: Sample code for EMF to WMZ  NodeJs Cloud API conversion. Use API example code for batch EMF files to WMZ conversion within any NodeJs based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert EMF to WMZ via NodeJs Cloud API" h2="Transform EMF into WMZ using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMF" additionalConversionTag="WMZ" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert EMF to WMZ via NodeJs Cloud API" h2="Transform EMF into WMZ using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for NodeJs" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{< blocks/products/pf/agp/code-block title="Convert EMF to WMZ - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "5f544ac894abdfd1a45d9e3ee72807b1" "emf-to-wmz.ts" >}}
+{{< gist "aspose-imaging-cloud-examples" "fd4991c1387635b0782fcf3f44f139a9" "emf-to-wmz.ts" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/emf-to-wmz), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/emf-to-wmz), [.NET](https://products.aspose.cloud/imaging/net/conversion/emf-to-wmz), [Java](https://products.aspose.cloud/imaging/java/conversion/emf-to-wmz), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/emf-to-wmz), [PHP](https://products.aspose.cloud/imaging/php/conversion/emf-to-wmz)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf">}}
 Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz">}}
-WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

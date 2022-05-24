@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /NodeJs/conversion/wmz-to-wmf/
-description: Sample code for WMZ to WMF  NodeJs Cloud API conversion. Use API example code for batch WMZ files to WMF {action} within any NodeJs based application. 
+description: Sample code for WMZ to WMF  NodeJs Cloud API conversion. Use API example code for batch WMZ files to WMF conversion within any NodeJs based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert WMZ to WMF via NodeJs Cloud API" h2="Transform WMZ into WMF using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMZ" additionalConversionTag="WMF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert WMZ to WMF via NodeJs Cloud API" h2="Transform WMZ into WMF using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMZ" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for NodeJs" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{< blocks/products/pf/agp/code-block title="Convert WMZ to WMF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "e4dc7e971b2a81bc8354a659dfd6bd58" "wmz-to-wmf.ts" >}}
+{{< gist "aspose-imaging-cloud-examples" "c179449db85297fd9645ea59abd0e7ea" "wmz-to-wmf.ts" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/wmz-to-wmf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/wmz-to-wmf), [.NET](https://products.aspose.cloud/imaging/net/conversion/wmz-to-wmf), [Java](https://products.aspose.cloud/imaging/java/conversion/wmz-to-wmf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/wmz-to-wmf), [PHP](https://products.aspose.cloud/imaging/php/conversion/wmz-to-wmf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz">}}
 WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf">}}
-Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

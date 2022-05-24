@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Java/conversion/bmp-to-jpeg/
-description: Sample code for BMP to JPEG  Java Cloud API conversion. Use API example code for batch BMP files to JPEG {action} within any Java based application. 
+description: Sample code for BMP to JPEG  Java Cloud API conversion. Use API example code for batch BMP files to JPEG conversion within any Java based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert BMP to JPEG via Java Cloud API" h2="Transform BMP into JPEG using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="BMP" additionalConversionTag="JPEG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert BMP to JPEG via Java Cloud API" h2="Transform BMP into JPEG using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="BMP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Java" >}}
@@ -64,7 +64,7 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert BMP to JPEG - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "55518425d5503d58b0f176f33fbe0ad2" "bmp-to-jpeg.java" >}}
+{{< gist "aspose-imaging-cloud-examples" "e9c4d8f04a6c89c90c39de3e7d4f48d0" "bmp-to-jpeg.java" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -83,18 +83,14 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/bmp-to-jpeg), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/bmp-to-jpeg), [.NET](https://products.aspose.cloud/imaging/net/conversion/bmp-to-jpeg), [Java](https://products.aspose.cloud/imaging/java/conversion/bmp-to-jpeg), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/bmp-to-jpeg), [PHP](https://products.aspose.cloud/imaging/php/conversion/bmp-to-jpeg)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp">}}
 Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg">}}
-A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

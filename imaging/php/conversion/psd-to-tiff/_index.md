@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /PHP/conversion/psd-to-tiff/
-description: Sample code for PSD to TIFF  PHP Cloud API conversion. Use API example code for batch PSD files to TIFF {action} within any PHP based application. 
+description: Sample code for PSD to TIFF  PHP Cloud API conversion. Use API example code for batch PSD files to TIFF conversion within any PHP based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert PSD to TIFF via PHP Cloud API" h2="Transform PSD into TIFF using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="PSD" additionalConversionTag="TIFF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert PSD to TIFF via PHP Cloud API" h2="Transform PSD into TIFF using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="PSD" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for PHP" >}}
@@ -57,7 +57,7 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 
 {{< blocks/products/pf/agp/code-block title="Convert PSD to TIFF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "3160bec1720ae9a31d32001da164f2d2" "psd-to-tiff.php" >}}
+{{< gist "aspose-imaging-cloud-examples" "5ecd4b424efd0628ccfa17127b314b2e" "psd-to-tiff.php" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -76,18 +76,14 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/psd-to-tiff), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/psd-to-tiff), [.NET](https://products.aspose.cloud/imaging/net/conversion/psd-to-tiff), [Java](https://products.aspose.cloud/imaging/java/conversion/psd-to-tiff), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/psd-to-tiff), [PHP](https://products.aspose.cloud/imaging/php/conversion/psd-to-tiff)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd">}}
 PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff">}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

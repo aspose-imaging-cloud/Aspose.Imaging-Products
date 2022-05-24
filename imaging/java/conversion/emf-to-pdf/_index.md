@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Java/conversion/emf-to-pdf/
-description: Sample code for EMF to PDF  Java Cloud API conversion. Use API example code for batch EMF files to PDF {action} within any Java based application. 
+description: Sample code for EMF to PDF  Java Cloud API conversion. Use API example code for batch EMF files to PDF conversion within any Java based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert EMF to PDF via Java Cloud API" h2="Transform EMF into PDF using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMF" additionalConversionTag="PDF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert EMF to PDF via Java Cloud API" h2="Transform EMF into PDF using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Java" >}}
@@ -64,7 +64,7 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert EMF to PDF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "42ec078557998af35f1a9da3ec19474f" "emf-to-pdf.java" >}}
+{{< gist "aspose-imaging-cloud-examples" "1f5f4c1edf395edf60ce6c94db4418b1" "emf-to-pdf.java" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -83,18 +83,14 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/emf-to-pdf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/emf-to-pdf), [.NET](https://products.aspose.cloud/imaging/net/conversion/emf-to-pdf), [Java](https://products.aspose.cloud/imaging/java/conversion/emf-to-pdf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/emf-to-pdf), [PHP](https://products.aspose.cloud/imaging/php/conversion/emf-to-pdf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf">}}
 Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/">}}
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

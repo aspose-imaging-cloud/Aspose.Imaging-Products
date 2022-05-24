@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Net/conversion/wmf-to-svg/
-description: Sample code for WMF to SVG  C# Cloud API conversion. Use API example code for batch WMF files to SVG {action} within any .NET based application. 
+description: Sample code for WMF to SVG  C# Cloud API conversion. Use API example code for batch WMF files to SVG conversion within any .NET based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert WMF to SVG via C# Cloud API" h2="Transform WMF into SVG using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMF" additionalConversionTag="SVG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert WMF to SVG via C# Cloud API" h2="Transform WMF into SVG using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="WMF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for .NET" >}}
@@ -58,7 +58,7 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert WMF to SVG - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "4a20c9e6b93c3c57b688e24ee66e71f9" "wmf-to-svg.cs" >}}
+{{< gist "aspose-imaging-cloud-examples" "5018130018ef65e6b9e7c8930b61c0a7" "wmf-to-svg.cs" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -77,18 +77,14 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/wmf-to-svg), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/wmf-to-svg), [.NET](https://products.aspose.cloud/imaging/net/conversion/wmf-to-svg), [Java](https://products.aspose.cloud/imaging/java/conversion/wmf-to-svg), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/wmf-to-svg), [PHP](https://products.aspose.cloud/imaging/php/conversion/wmf-to-svg)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf">}}
 Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg">}}
-SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

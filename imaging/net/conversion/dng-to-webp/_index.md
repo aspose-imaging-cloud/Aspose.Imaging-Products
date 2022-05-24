@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Net/conversion/dng-to-webp/
-description: Sample code for DNG to WEBP  C# Cloud API conversion. Use API example code for batch DNG files to WEBP {action} within any .NET based application. 
+description: Sample code for DNG to WEBP  C# Cloud API conversion. Use API example code for batch DNG files to WEBP conversion within any .NET based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert DNG to WEBP via C# Cloud API" h2="Transform DNG into WEBP using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DNG" additionalConversionTag="WEBP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert DNG to WEBP via C# Cloud API" h2="Transform DNG into WEBP using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DNG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for .NET" >}}
@@ -58,7 +58,7 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert DNG to WEBP - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "28690be23bdfc2fe50a01f3763a223b9" "dng-to-webp.cs" >}}
+{{< gist "aspose-imaging-cloud-examples" "33d8330b6e8841b019ca39490b16b942" "dng-to-webp.cs" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -77,18 +77,14 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/dng-to-webp), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/dng-to-webp), [.NET](https://products.aspose.cloud/imaging/net/conversion/dng-to-webp), [Java](https://products.aspose.cloud/imaging/java/conversion/dng-to-webp), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/dng-to-webp), [PHP](https://products.aspose.cloud/imaging/php/conversion/dng-to-webp)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng">}}
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp">}}
-WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Since most of the web pages use images as effective representation of data, the use of WebP images in web pages results in faster loading of web pages. As per Google, WebP lossless images are 26% smaller in size compared to PNGs, while WebP lossy images are 25-34% smaller than comparable JPEG images. Images are compared based on the Structural Similarity (SSIM) index between WebP and other image file formats. WebP is a sister project of WebM multimedia container format.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

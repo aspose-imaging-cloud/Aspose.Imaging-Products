@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Java/conversion/jpeg-to-pdf/
-description: Sample code for JPEG to PDF  Java Cloud API conversion. Use API example code for batch JPEG files to PDF {action} within any Java based application. 
+description: Sample code for JPEG to PDF  Java Cloud API conversion. Use API example code for batch JPEG files to PDF conversion within any Java based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert JPEG to PDF via Java Cloud API" h2="Transform JPEG into PDF using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="PDF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert JPEG to PDF via Java Cloud API" h2="Transform JPEG into PDF using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Java" >}}
@@ -64,7 +64,7 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert JPEG to PDF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "53b325d6d2d95224871931c1eb4c265e" "jpeg-to-pdf.java" >}}
+{{< gist "aspose-imaging-cloud-examples" "8520fcc9f05a11fa299793d25c9a9af4" "jpeg-to-pdf.java" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -83,18 +83,14 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/jpeg-to-pdf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/jpeg-to-pdf), [.NET](https://products.aspose.cloud/imaging/net/conversion/jpeg-to-pdf), [Java](https://products.aspose.cloud/imaging/java/conversion/jpeg-to-pdf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/jpeg-to-pdf), [PHP](https://products.aspose.cloud/imaging/php/conversion/jpeg-to-pdf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg">}}
 A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/">}}
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

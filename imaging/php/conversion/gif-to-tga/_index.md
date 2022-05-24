@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /PHP/conversion/gif-to-tga/
-description: Sample code for GIF to TGA  PHP Cloud API conversion. Use API example code for batch GIF files to TGA {action} within any PHP based application. 
+description: Sample code for GIF to TGA  PHP Cloud API conversion. Use API example code for batch GIF files to TGA conversion within any PHP based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert GIF to TGA via PHP Cloud API" h2="Transform GIF into TGA using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="GIF" additionalConversionTag="TGA" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert GIF to TGA via PHP Cloud API" h2="Transform GIF into TGA using native PHP Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="GIF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for PHP" >}}
@@ -57,7 +57,7 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 
 {{< blocks/products/pf/agp/code-block title="Convert GIF to TGA - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "f9d1ac07e7b90912004425252c1a8445" "gif-to-tga.php" >}}
+{{< gist "aspose-imaging-cloud-examples" "dad78bcdabc17cb1deb7ee1174af040d" "gif-to-tga.php" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -76,18 +76,14 @@ Aspose.Imaging Cloud for PHP is supported on all major operating systems. Just m
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/gif-to-tga), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/gif-to-tga), [.NET](https://products.aspose.cloud/imaging/net/conversion/gif-to-tga), [Java](https://products.aspose.cloud/imaging/java/conversion/gif-to-tga), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/gif-to-tga), [PHP](https://products.aspose.cloud/imaging/php/conversion/gif-to-tga)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif">}}
 A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga">}}
-Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

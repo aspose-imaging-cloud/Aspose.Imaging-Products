@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Net/conversion/otg-to-bmp/
-description: Sample code for OTG to BMP  C# Cloud API conversion. Use API example code for batch OTG files to BMP {action} within any .NET based application. 
+description: Sample code for OTG to BMP  C# Cloud API conversion. Use API example code for batch OTG files to BMP conversion within any .NET based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert OTG to BMP via C# Cloud API" h2="Transform OTG into BMP using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="OTG" additionalConversionTag="BMP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert OTG to BMP via C# Cloud API" h2="Transform OTG into BMP using native .NET Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="OTG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for .NET" >}}
@@ -58,7 +58,7 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert OTG to BMP - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "5c3a131b8ed9adf9d6e0492a7defda89" "otg-to-bmp.cs" >}}
+{{< gist "aspose-imaging-cloud-examples" "bb3ab3c02aa6c5090f44bc953215fd62" "otg-to-bmp.cs" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -77,18 +77,14 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/otg-to-bmp), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/otg-to-bmp), [.NET](https://products.aspose.cloud/imaging/net/conversion/otg-to-bmp), [Java](https://products.aspose.cloud/imaging/java/conversion/otg-to-bmp), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/otg-to-bmp), [PHP](https://products.aspose.cloud/imaging/php/conversion/otg-to-bmp)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg">}}
 An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp">}}
-Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

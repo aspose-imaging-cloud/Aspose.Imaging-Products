@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Java/conversion/psd-to-bmp/
-description: Sample code for PSD to BMP  Java Cloud API conversion. Use API example code for batch PSD files to BMP {action} within any Java based application. 
+description: Sample code for PSD to BMP  Java Cloud API conversion. Use API example code for batch PSD files to BMP conversion within any Java based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert PSD to BMP via Java Cloud API" h2="Transform PSD into BMP using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="PSD" additionalConversionTag="BMP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert PSD to BMP via Java Cloud API" h2="Transform PSD into BMP using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="PSD" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Java" >}}
@@ -64,7 +64,7 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert PSD to BMP - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "0968f90e7571a9fd11553112852b3528" "psd-to-bmp.java" >}}
+{{< gist "aspose-imaging-cloud-examples" "40626ee652904a149366c491702dec97" "psd-to-bmp.java" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -83,18 +83,14 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/psd-to-bmp), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/psd-to-bmp), [.NET](https://products.aspose.cloud/imaging/net/conversion/psd-to-bmp), [Java](https://products.aspose.cloud/imaging/java/conversion/psd-to-bmp), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/psd-to-bmp), [PHP](https://products.aspose.cloud/imaging/php/conversion/psd-to-bmp)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd">}}
 PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp">}}
-Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

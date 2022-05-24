@@ -2,11 +2,11 @@
 title:  
 weight: 1
 url: /Ruby/conversion/emz-to-dxf/
-description: Sample code for EMZ to DXF  Ruby Cloud API conversion. Use API example code for batch EMZ files to DXF {action} within any Ruby based application. 
+description: Sample code for EMZ to DXF  Ruby Cloud API conversion. Use API example code for batch EMZ files to DXF conversion within any Ruby based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert EMZ to DXF via Ruby Cloud API" h2="Transform EMZ into DXF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMZ" additionalConversionTag="DXF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert EMZ to DXF via Ruby Cloud API" h2="Transform EMZ into DXF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="EMZ" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Ruby" >}}
@@ -52,7 +52,7 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 
 {{< blocks/products/pf/agp/code-block title="Convert EMZ to DXF - Cloud" offSpacer="" >}}
 
-{{< gist "aspose-imaging-cloud-gists" "9c5c1c3476f5843b4c0184841a56f315" "emz-to-dxf.rb" >}}
+{{< gist "aspose-imaging-cloud-examples" "18584faf7f4452f60ed3d6cc8d7670e9" "emz-to-dxf.rb" >}}
 
 {{< /blocks/products/pf/agp/code-block >}}
 
@@ -71,18 +71,14 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
-Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python), [Ruby](https://products.aspose.cloud/imaging/ruby), [.NET](https://products.aspose.cloud/imaging/net), [Java](https://products.aspose.cloud/imaging/java), [NodeJS](https://products.aspose.cloud/imaging/nodejs), [PHP](https://products.aspose.cloud/imaging/php)) and the use of the REST API allow to make the integration easy.    
-    
+Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/conversion/emz-to-dxf), [Ruby](https://products.aspose.cloud/imaging/ruby/conversion/emz-to-dxf), [.NET](https://products.aspose.cloud/imaging/net/conversion/emz-to-dxf), [Java](https://products.aspose.cloud/imaging/java/conversion/emz-to-dxf), [NodeJS](https://products.aspose.cloud/imaging/nodejs/conversion/emz-to-dxf), [PHP](https://products.aspose.cloud/imaging/php/conversion/emz-to-dxf)) and the use of the REST API allow to make the integration easy.
+
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz">}}
 A file with the EMZ file extension is a compressed image file, more specifically referred to as a Windows Compressed Enhanced Metafile file
-        {{< /blocks/products/pf/agp/about-file-text >}}
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/">}}
-DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. This group code actually represents the element that follows and indicates the meaning of a data element for a given object type. DXF makes it possible to represent almost all user-specified information in a drawing file.
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}  
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
