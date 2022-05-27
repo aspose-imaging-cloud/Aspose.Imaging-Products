@@ -6,7 +6,7 @@ description: Sample code for JPEG to GIF  Ruby Cloud API conversion. Use API exa
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert JPEG to GIF via Ruby Cloud API" h2="Transform JPEG into GIF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert JPEG to GIF via Ruby Cloud API" h2="Transform JPEG into GIF using native Ruby Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="JPEG" additionalConversionTag="GIF" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Ruby" >}}
@@ -58,15 +58,7 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Convert JPEGs via Online App" sectionDescription="Convert JPEG to GIF documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your JPEG files and hit \"Convert\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for Ruby" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
@@ -75,10 +67,23 @@ Flexible integrations options including SDKs for various languages ([Python](htt
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+    {{< blocks/products/pf/agp/about-file-section >}}      
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert JPEGs via Online App" sectionDescription="Convert JPEG to GIF documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your JPEG files and hit \"Convert\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
+   {{< /blocks/products/pf/agp/demobox >}}
+
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg">}}
 A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
-        {{< /blocks/products/pf/agp/about-file-text >}}  
+        {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif">}}
+A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

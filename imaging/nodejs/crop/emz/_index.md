@@ -2,7 +2,7 @@
 title:  
 weight: 1
 url: /NodeJs/crop/emz/
-description: Sample code for EMZ to   NodeJs Cloud API crop. Use API example code for batch EMZ files  crop within any NodeJs based application. 
+description: Sample code for EMZ  NodeJs Cloud API crop. Use API example code for batch EMZ files  crop within any NodeJs based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -59,27 +59,29 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Crop EMZs via Online App" sectionDescription="Crop EMZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-crop). The live demo has the following benefits:" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EMZ files and hit \"Crop\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+   {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for NodeJs" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
 Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/crop/emz), [Ruby](https://products.aspose.cloud/imaging/ruby/crop/emz), [.NET](https://products.aspose.cloud/imaging/net/crop/emz), [Java](https://products.aspose.cloud/imaging/java/crop/emz), [NodeJS](https://products.aspose.cloud/imaging/nodejs/crop/emz), [PHP](https://products.aspose.cloud/imaging/php/crop/emz)) and the use of the REST API allow to make the integration easy.
 
-    {{% /blocks/products/pf/agp/content %}}
+   {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+ {{< blocks/products/pf/agp/about-file-section >}}   
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Crop EMZs via Online App" sectionDescription="Crop EMZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-crop). The live demo has the following benefits:" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EMZ files and hit \"Crop\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}} 
+   {{< /blocks/products/pf/agp/demobox >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz">}}
 A file with the EMZ file extension is a compressed image file, more specifically referred to as a Windows Compressed Enhanced Metafile file
         {{< /blocks/products/pf/agp/about-file-text >}}  
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

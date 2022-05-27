@@ -59,27 +59,29 @@ Aspose.Imaging Cloud for Python is supported on all major operating systems. Jus
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Rotate & Flip WMZs via Online App" sectionDescription="Rotate & Flip WMZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/flip-rotate). The live demo has the following benefits:" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your WMZ files and hit \"Apply\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+   {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for Python" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
 Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/flip-rotate/wmz), [Ruby](https://products.aspose.cloud/imaging/ruby/flip-rotate/wmz), [.NET](https://products.aspose.cloud/imaging/net/flip-rotate/wmz), [Java](https://products.aspose.cloud/imaging/java/flip-rotate/wmz), [NodeJS](https://products.aspose.cloud/imaging/nodejs/flip-rotate/wmz), [PHP](https://products.aspose.cloud/imaging/php/flip-rotate/wmz)) and the use of the REST API allow to make the integration easy.
 
-    {{% /blocks/products/pf/agp/content %}}
+   {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+ {{< blocks/products/pf/agp/about-file-section >}}   
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Rotate & Flip WMZs via Online App" sectionDescription="Rotate & Flip WMZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/flip-rotate). The live demo has the following benefits:" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your WMZ files and hit \"Apply\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}} 
+   {{< /blocks/products/pf/agp/demobox >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz">}}
 WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
         {{< /blocks/products/pf/agp/about-file-text >}}  
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

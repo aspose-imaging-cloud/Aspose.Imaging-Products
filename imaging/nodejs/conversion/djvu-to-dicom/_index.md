@@ -6,7 +6,7 @@ description: Sample code for DJVU to DICOM  NodeJs Cloud API conversion. Use API
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert DJVU to DICOM via NodeJs Cloud API" h2="Transform DJVU into DICOM using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DJVU" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert DJVU to DICOM via NodeJs Cloud API" h2="Transform DJVU into DICOM using native NodeJs Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="DJVU" additionalConversionTag="DICOM" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for NodeJs" >}}
@@ -58,15 +58,7 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Convert DJVUs via Online App" sectionDescription="Convert DJVU to DICOM documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DJVU files and hit \"Convert\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for NodeJs" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
@@ -75,10 +67,23 @@ Flexible integrations options including SDKs for various languages ([Python](htt
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+    {{< blocks/products/pf/agp/about-file-section >}}      
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert DJVUs via Online App" sectionDescription="Convert DJVU to DICOM documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DJVU files and hit \"Convert\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
+   {{< /blocks/products/pf/agp/demobox >}}
+
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu">}}
 DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
-        {{< /blocks/products/pf/agp/about-file-text >}}  
+        {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom">}}
+DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

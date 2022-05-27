@@ -6,7 +6,7 @@ description: Sample code for APNG to BMP  Java Cloud API conversion. Use API exa
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Convert APNG to BMP via Java Cloud API" h2="Transform APNG into BMP using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="APNG" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Convert APNG to BMP via Java Cloud API" h2="Transform APNG into BMP using native Java Cloud APIs without needing any image editor or 3rd-party libraries." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="APNG" additionalConversionTag="BMP" pfName="Aspose.Imaging.Cloud" subTitlepfName="for " downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging.Cloud" subTitlepfName="for Java" >}}
@@ -70,15 +70,7 @@ Aspose.Imaging Cloud for Java is supported on all major operating systems. Just 
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Convert APNGs via Online App" sectionDescription="Convert APNG to BMP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your APNG files and hit \"Convert\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+    {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for Java" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
@@ -87,10 +79,23 @@ Flexible integrations options including SDKs for various languages ([Python](htt
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+    {{< blocks/products/pf/agp/about-file-section >}}      
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert APNGs via Online App" sectionDescription="Convert APNG to BMP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your APNG files and hit \"Convert\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
+   {{< /blocks/products/pf/agp/demobox >}}
+
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng">}}
 A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
-        {{< /blocks/products/pf/agp/about-file-text >}}  
+        {{< /blocks/products/pf/agp/about-file-text >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp">}}
+Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
+        {{< /blocks/products/pf/agp/about-file-text >}}
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

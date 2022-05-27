@@ -59,27 +59,29 @@ Aspose.Imaging Cloud for Ruby is supported on all major operating systems. Just 
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Rotate & Flip DJVUs via Online App" sectionDescription="Rotate & Flip DJVU documents by visiting our [Live Demos website](https://products.aspose.app/imaging/flip-rotate). The live demo has the following benefits:" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DJVU files and hit \"Apply\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+   {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for Ruby" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
 Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/flip-rotate/djvu), [Ruby](https://products.aspose.cloud/imaging/ruby/flip-rotate/djvu), [.NET](https://products.aspose.cloud/imaging/net/flip-rotate/djvu), [Java](https://products.aspose.cloud/imaging/java/flip-rotate/djvu), [NodeJS](https://products.aspose.cloud/imaging/nodejs/flip-rotate/djvu), [PHP](https://products.aspose.cloud/imaging/php/flip-rotate/djvu)) and the use of the REST API allow to make the integration easy.
 
-    {{% /blocks/products/pf/agp/content %}}
+   {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+ {{< blocks/products/pf/agp/about-file-section >}}   
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Rotate & Flip DJVUs via Online App" sectionDescription="Rotate & Flip DJVU documents by visiting our [Live Demos website](https://products.aspose.app/imaging/flip-rotate). The live demo has the following benefits:" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DJVU files and hit \"Apply\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}} 
+   {{< /blocks/products/pf/agp/demobox >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu">}}
 DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}  
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

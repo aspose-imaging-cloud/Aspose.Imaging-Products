@@ -2,7 +2,7 @@
 title:  
 weight: 1
 url: /NodeJs/resize/eps/
-description: Sample code for EPS to   NodeJs Cloud API resize. Use API example code for batch EPS files  resize within any NodeJs based application. 
+description: Sample code for EPS  NodeJs Cloud API resize. Use API example code for batch EPS files  resize within any NodeJs based application. 
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -59,27 +59,29 @@ Aspose.Imaging Cloud for NodeJs is supported on all major operating systems. Jus
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Resize EPSs via Online App" sectionDescription="Resize EPS documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-resize). The live demo has the following benefits:" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EPS files and hit \"Resize\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+   {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for NodeJs" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
 Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/resize/eps), [Ruby](https://products.aspose.cloud/imaging/ruby/resize/eps), [.NET](https://products.aspose.cloud/imaging/net/resize/eps), [Java](https://products.aspose.cloud/imaging/java/resize/eps), [NodeJS](https://products.aspose.cloud/imaging/nodejs/resize/eps), [PHP](https://products.aspose.cloud/imaging/php/resize/eps)) and the use of the REST API allow to make the integration easy.
 
-    {{% /blocks/products/pf/agp/content %}}
+   {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+ {{< blocks/products/pf/agp/about-file-section >}}   
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Resize EPSs via Online App" sectionDescription="Resize EPS documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-resize). The live demo has the following benefits:" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EPS files and hit \"Resize\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}} 
+   {{< /blocks/products/pf/agp/demobox >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps">}}
 FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as JPG, PNG, TIFF and PDF using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a security vulnerability in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
         {{< /blocks/products/pf/agp/about-file-text >}}  
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->

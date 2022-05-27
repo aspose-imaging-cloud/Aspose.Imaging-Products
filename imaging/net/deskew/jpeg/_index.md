@@ -65,27 +65,29 @@ Aspose.Imaging Cloud for .NET is supported on all major operating systems. Just 
 
 {{% /blocks/products/pf/agp/feature-section %}}
 
-
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Deskew JPEGs via Online App" sectionDescription="Deskew JPEG documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-deskew). The live demo has the following benefits:" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your JPEG files and hit \"Deskew\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
-
-    {{% blocks/products/pf/agp/content h2="" %}}
+   {{% blocks/products/pf/agp/content h2="About Aspose.Imaging Cloud API for .NET" %}}
 
 Aspose.Imaging Cloud API is an image processing solution to process images (photos) within your cloud or web applications. 
 It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), transformations (resize, crop, flip&rotate, grayscale, adjust), advanced image manipulation features (filtering, deskewing), AI features (i.e. object detection and reverse image search). 
 It’s a Cloud API and does not depend on any software for image operations. One can easily add high-performance image conversion features with Cloud APIs within projects.
 Flexible integrations options including SDKs for various languages ([Python](https://products.aspose.cloud/imaging/python/deskew/jpeg), [Ruby](https://products.aspose.cloud/imaging/ruby/deskew/jpeg), [.NET](https://products.aspose.cloud/imaging/net/deskew/jpeg), [Java](https://products.aspose.cloud/imaging/java/deskew/jpeg), [NodeJS](https://products.aspose.cloud/imaging/nodejs/deskew/jpeg), [PHP](https://products.aspose.cloud/imaging/php/deskew/jpeg)) and the use of the REST API allow to make the integration easy.
 
-    {{% /blocks/products/pf/agp/content %}}
+   {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}       
+ {{< blocks/products/pf/agp/about-file-section >}}   
+
+<!-- aboutfile Starts -->
+   {{< blocks/products/pf/agp/demobox sectionTitle="Deskew JPEGs via Online App" sectionDescription="Deskew JPEG documents by visiting our [Live Demos website](https://products.aspose.app/imaging/image-deskew). The live demo has the following benefits:" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your JPEG files and hit \"Deskew\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}} 
+   {{< /blocks/products/pf/agp/demobox >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg">}}
 A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
         {{< /blocks/products/pf/agp/about-file-text >}}  
+
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
