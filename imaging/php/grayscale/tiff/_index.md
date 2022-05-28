@@ -103,8 +103,6 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/grayscale/tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/grayscale/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/grayscale/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

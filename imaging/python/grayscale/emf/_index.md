@@ -98,8 +98,6 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

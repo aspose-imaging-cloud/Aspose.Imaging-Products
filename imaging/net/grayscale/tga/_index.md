@@ -104,8 +104,6 @@ Truevision TGA, often referred to as TARGA, is a raster graphics file format cre
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/net/grayscale/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/net/grayscale/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/net/grayscale/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/net/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/net/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

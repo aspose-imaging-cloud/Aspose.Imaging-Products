@@ -98,8 +98,6 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

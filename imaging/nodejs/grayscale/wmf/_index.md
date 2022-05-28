@@ -98,8 +98,6 @@ Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

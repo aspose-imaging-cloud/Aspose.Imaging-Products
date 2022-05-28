@@ -98,8 +98,6 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/grayscale/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
