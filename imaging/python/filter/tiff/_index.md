@@ -86,7 +86,7 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="Using Python Cloud API, one can easily apply filtering effect to different formats including:" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Filters" subTitle="Using Python Cloud API, one can easily apply filtering effect to different formats including:" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/filter/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/python/filter/dicom" name="DICOM" description="Digital Imaging & Communications" >}}

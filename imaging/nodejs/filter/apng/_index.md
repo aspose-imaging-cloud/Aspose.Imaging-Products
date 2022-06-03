@@ -86,7 +86,7 @@ A file with .apng (Animated Portable Network Graphics) extension is a raster gra
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="Using NodeJs Cloud API, one can easily apply filtering effect to different formats including:" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Filters" subTitle="Using NodeJs Cloud API, one can easily apply filtering effect to different formats including:" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/filter/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/nodejs/filter/djvu" name="DJVU" description="Graphics Format" >}}

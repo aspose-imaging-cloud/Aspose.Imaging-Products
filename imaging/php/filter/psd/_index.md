@@ -91,7 +91,7 @@ PSD, Photoshop Document, represents Adobe Photoshop’s native file format used 
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="Using PHP Cloud API, one can easily apply filtering effect to different formats including:" >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Filters" subTitle="Using PHP Cloud API, one can easily apply filtering effect to different formats including:" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/filter/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.cloud/imaging/php/filter/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
